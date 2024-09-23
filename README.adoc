@@ -214,6 +214,7 @@ impl Termination for Impossible {
     }
 }
 ```
+
 //Dynamic inclusion of main.rs, but unused because github was lazy and didn't implement include.
 ////
 [source, rust]

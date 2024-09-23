@@ -1,6 +1,8 @@
 :source-highlighter: highlight.js
 :highlightjs-languages: rust, swift
 :toc: auto
+:base_dir : source
+:safe : unsafe
 
 = Falling Down & Rising Up
 
@@ -33,5 +35,5 @@ perhaps I must `panic!("Help me...)`
 
 [source, rust]
 ----
-include::./src/main.rs[]
+include::src/main.rs[]
 ----

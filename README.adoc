@@ -24,7 +24,7 @@ causing so many a lost chapter,
 why come now these new revelations?
  +
 My mind becomes fore frantic,
-perhaps I must `panic!("Help me...)`
+perhaps I must `panic!("Help me...);`
 
 
 == *Building Up*
@@ -32,8 +32,7 @@ perhaps I must `panic!("Help me...)`
 ../src/main.rs
 
 //Make asciidoc use MD syntax to resolve
-[source, rust]
-'''
+```rust
 use std::process::{ExitCode, Termination};
 
 fn main() -> Result<Emotion, Impossible> {
@@ -214,9 +213,10 @@ impl Termination for Impossible {
         ExitCode::SUCCESS
     }
 }
-'''
+```
 
 ////
+[source, rust]
 ----
 include::src/main.rs[]
 ----

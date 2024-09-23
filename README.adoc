@@ -1,0 +1,37 @@
+:source-highlighter: highlight.js
+:highlightjs-languages: rust, swift
+:toc: auto
+
+= Falling Down & Rising Up
+
+
+== *Falling Down*
+
+[%hardbreaks]
+Growing up too fast,
+I'm the top of my class,
+no time to have a blast,
+pushed for an A pass.
+ +
+Lazy results in inefficiency,
+so Einstein becomes a lumberjack.
+Pushed for proficiency,
+of all trades; I am Jack.
+ +
+What lies behind my youthful laughter,
+but all those disguised implications,
+causing so many a lost chapter,
+why come now these new revelations?
+ +
+My mind becomes fore frantic,
+perhaps I must `panic!("Help me...)`
+
+
+== *Building Up*
+
+../src/main.rs
+
+[source, rust]
+----
+include::./src/main.rs[]
+----

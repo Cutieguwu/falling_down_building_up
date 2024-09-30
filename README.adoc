@@ -1,5 +1,5 @@
 :source-highlighter: highlight.js
-:highlightjs-languages: rust, swift
+:highlightjs-languages: rust
 :toc: auto
 
 = Falling Down & Rising Up

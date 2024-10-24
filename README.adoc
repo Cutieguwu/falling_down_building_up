@@ -24,7 +24,7 @@ causing so many a lost chapter,
 why come now these new revelations?
  +
 My mind becomes fore frantic,
-perhaps I must `panic!("Help me...);`
+perhaps I must `panic!("Help me...");`
 
 
 == *Building Up*

@@ -23,7 +23,7 @@ but all those disguised implications,
 causing so many a lost chapter,
 why come now these new revelations?
  +
-My mind becomes fore frantic,
+My mind becomes more frantic,
 perhaps I must `panic!("Help me...");`
 
 
